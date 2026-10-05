@@ -156,7 +156,7 @@ The application then uses the reduced logistic regression model to calculate an 
 
 ### Application Preview
 
-![Credit Risk Shiny App](shiny_app.jpeg)
+![Credit Risk Shiny App](shiny_app.png)
 
 ### Try the App
 
