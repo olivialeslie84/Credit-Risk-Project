@@ -8,7 +8,7 @@ The project combines SQL for data cleaning and exploratory analysis with R for s
 
 An interactive R Shiny tool was also developed to allow users to enter borrower and loan characteristics and receive an estimated probability of default and a corresponding risk segment.
 
-#### Tools
+### Tools
 
 - SQL
 - R
@@ -113,7 +113,7 @@ The ROC-AUC evaluates the model's discrimination across different probability th
 
 The ROC curve below shows the model's discrimination performance on the held-out test set.
 
-![ROC Curve: Reduced Logistic Regression](Outputs/roc_curve.png)
+![ROC Curve: Reduced Logistic Regression](roc_curve.png)
 
 ## Risk Segmentation
 
@@ -156,7 +156,7 @@ The application then uses the reduced logistic regression model to calculate an 
 
 ### Application Preview
 
-![Credit Risk Shiny App](shinyapp.png)
+![Credit Risk Shiny App](shiny_app.jpeg)
 
 ### Try the App
 
